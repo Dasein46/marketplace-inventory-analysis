@@ -4,6 +4,8 @@
 
 [Открыть интерактивный дашборд в DataLens](https://datalens.yandex/hsa2aikivb480?_share_link=public)
 
+[Расчёты, сводные таблицы и выводы в Google Sheets](https://docs.google.com/spreadsheets/d/1DkS75oyNtCIFjBDSSw0Mc3mJeMT-CwJVfOtQ--hssIE/edit?usp=sharing)
+
 **Автор — Эдуард Леонов.** Инструменты проекта — Google Sheets и Yandex DataLens. Исходные данные предоставлены в учебном тестовом задании и обозначены как вымышленные. Период продаж — 9–16 ноября 2022 года, восемь календарных дней.
 
 ## Задача и результат
